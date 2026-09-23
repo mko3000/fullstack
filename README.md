@@ -1,4 +1,4 @@
-# fullstack open assignemts
+# fullstack open assignments
 
 Folder structure
 ```
